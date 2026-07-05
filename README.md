@@ -61,8 +61,8 @@ python trade_daemon.py --dry-run  # simulate only, no real orders
 baked-in default has a matching `--no-*` inverse flag. The full reference
 is below.
 
-# To run using ChainVector's Compute VM use this start command:
-python python-service/trade_daemon.py 
+## To run using ChainVector's Compute VM use this start command:
+`python python-service/trade_daemon.py` 
 
 ## Command-line reference
 
