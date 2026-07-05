@@ -1,4 +1,4 @@
-# Kalshi BTC 15m Scalper — ChainVector Edition
+# Kalshi BTC 15m Trader — ChainVector Edition
 
 Autonomous trading daemon for Kalshi's 15-minute BTC binary markets
 (`KXBTC15M`). It wakes for each 15-minute window, runs a Markov signal stack
